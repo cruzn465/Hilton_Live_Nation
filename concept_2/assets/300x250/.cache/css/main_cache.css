@@ -1,0 +1,46 @@
+
+
+#c1_2x {
+	left:16px;
+	top:13px;
+	width:232px;
+	height:22px;
+	background-image:url(../img/c1_2x.png);
+	background-size:232px 22px;
+}
+
+#c2_2x {
+	left:18px;
+	top:42px;
+	width:172px;
+	height:22px;
+	background-image:url(../img/c2_2x.png);
+	background-size:172px 22px;
+}
+
+#c3_2x {
+	left:17px;
+	top:73px;
+	width:181px;
+	height:21px;
+	background-image:url(../img/c3_2x.png);
+	background-size:181px 21px;
+}
+
+#loc_2x {
+	left:184px;
+	top:204px;
+	width:99px;
+	height:30px;
+	background-image:url(../img/loc_2x.png);
+	background-size:99px 30px;
+}
+
+#bg_2x {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:250px;
+	background-image:url(../img/bg_2x.jpg);
+	background-size:300px 250px;
+}
